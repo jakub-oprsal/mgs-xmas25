@@ -18,7 +18,7 @@ Participation at the Christmas seminar is free to all, and no registration is re
   *Rewriting consistent answers in annotated databases*
 - [Axel Ljungström](https://aljungstrom.github.io) (Nottingham)  
   *A pain-free formalisation of the Leibniz construction*
-- Ian Shillito (Birmingham)
+- Ian Shillito (Birmingham)  
   *Cut elimination via proof search termination*
 
 Talks will run **from 2pm to 5.15pm**. Afterwards, we will continue to a pub and dinner (details TBA).
