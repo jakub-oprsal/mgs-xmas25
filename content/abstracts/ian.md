@@ -2,6 +2,7 @@
 speaker: 'Ian Shillito'
 title: 'Cut elimination via proof search termination'
 date: '2025-12-01T12:42:17Z'
+order: 3
 ---
 
 

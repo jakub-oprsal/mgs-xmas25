@@ -2,6 +2,7 @@
 speaker: 'Axel Ljungström'
 title: 'A pain-free formalisation of the Leibniz construction'
 date: '2025-12-01T12:42:17Z'
+order: 2
 ---
 
 For better or worse, some mathematicians working in formalisation (including myself) like to work in a proof-relevant setting, such as homotopy type theory. While theorems stated in such a setting enjoy interpretations in a rich class of models, this matters little if we can't prove them in the first place. Indeed, even when proving the most innocent-looking results, there is one recurring issue that often stumps even the most seasoned formaliser: coherences. This talk is about my most recent visit to coherence hell and, in particular, a neat little trick that helped me and my collaborators escape it.

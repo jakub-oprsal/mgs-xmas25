@@ -1,5 +1,5 @@
 {{ range (where .Site.Pages "Section" "abstracts") }}
-   {{ range .Pages }}
+   {{ range .Pages.ByParam "order" }}
    <h3 id="{{ .File }}">
         {{ .Params.Speaker }} – <em>{{ .Title }}</em>
       </h3>
