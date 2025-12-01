@@ -1,0 +1,16 @@
+{{ define "main" }}
+{{ partial "back_link.html" .}}
+
+<h1>{{ .Site.Title }} – {{ .Title }}</h1>
+
+{{ .Content }}
+
+{{- range $post := .RegularPages -}}
+      <h3 class="speaker">{{ $post.Params.Speaker }}</h3>
+
+      <h2 style="font-style: italic;">{{ $post.Title }}</h2>
+
+      {{ $post.Content }}
+{{ end }}
+
+{{ end }}

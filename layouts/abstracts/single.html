@@ -1,0 +1,18 @@
+{{ define "main" }}
+{{ partial "back_link.html" .}}
+
+<article>
+
+    <h3 class="speaker">{{ .Params.Speaker }}</h3>
+
+    <h1 style="font-style: italic;">{{ .Title }}</h1>
+
+    {{ if .Params.toc }}
+        <aside {{ if .Params.tocBorder }} class="toc" {{ end }}>
+            {{ .TableOfContents }}
+        </aside>
+    {{ end }}
+
+    {{ .Content }}
+</article>
+{{ end }}
