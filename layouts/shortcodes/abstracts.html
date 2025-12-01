@@ -1,0 +1,8 @@
+{{ range (where .Site.Pages "Section" "abstracts") }}
+   {{ range .Pages }}
+   <h3 id="{{ .File }}">
+        {{ .Params.Speaker }} – <em>{{ .Title }}</em>
+      </h3>
+      {{ .Content }}
+    {{ end }}
+{{ end }}
