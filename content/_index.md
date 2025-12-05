@@ -25,7 +25,24 @@ Talks will run **from 2pm to 5.15pm**. Afterwards, we will continue to a pub and
 
 ## Schedule
 
-(TBA)
+Talks will take place in room LG06 of the [Old Gym](https://campusmap.bham.ac.uk/search/5d6f49221e1f64009327acc1?projectId=uob).
+
+**13:30–14:00** — Arrival
+
+**14:00–14:45** — Axel Ljungström  
+*A pain-free formalisation of the Leibniz construction*
+
+**14:45–15:15** — Break
+
+**15:15–16:00** — Ian Shillito  
+*Cut elimination via proof search termination*
+
+**16:00–16:30** — Break
+
+**16:30–17:15** — Nina Pardal  
+*Rewriting consistent answers in annotated databases*
+
+**17:30** onwards — Pub and dinner (details TBA)
 
 ## Abstracts
 
