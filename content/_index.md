@@ -6,6 +6,7 @@ date: 2025-11-23T13:44:05+00:00
 #### University of Birmingham, Tuesday 16 December 2025
 
 The MGS Christmas Seminars 2025 will take place in room LG06 of the [Old Gym](https://campusmap.bham.ac.uk/search/5d6f49221e1f64009327acc1?projectId=uob) at the University of Birmingham, Edgbaston campus, on Tuesday 16 December.
+The seminar is co-located with [Types and Topology](https://tdejong.com/mhe60/) on 17--18 December.
 
 The [Midlands Graduate School](https://www.cs.nott.ac.uk/MGS/) (MGS) is an annual spring graduate school on the mathematical foundations of computing science. It has run annually since 1999 and has been held at either the University of Birmingham, the University of Leicester, the University of Nottingham, or at the University of Sheffield.
 
